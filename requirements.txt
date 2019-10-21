@@ -24,6 +24,6 @@ Quandl==3.3.0
 requests==2.19.1
 six==1.11.0
 tornado==5.1
-urllib3==1.23
+urllib3==1.24.2
 win-inet-pton==1.0.1
 wincertstore==0.2
